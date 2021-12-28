@@ -13,7 +13,7 @@ require (
 	github.com/containernetworking/cni v0.7.1
 	github.com/containernetworking/plugins v0.8.6
 	github.com/deniswernert/udev v0.0.0-20140626150257-82fe5be8ca5f
-	github.com/didip/tollbooth v3.0.2+incompatible
+	github.com/didip/tollbooth v4.0.2+incompatible
 	github.com/docker/distribution v0.0.0-20181002220433-1cb4180b1a5b // indirect
 	github.com/docker/docker v0.0.0-20200531234253-77e06fda0c94
 	github.com/docker/go-connections v0.4.0
